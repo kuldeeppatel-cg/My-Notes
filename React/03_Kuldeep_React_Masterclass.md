@@ -6,7 +6,7 @@
 
 ## 📌 Q6: How do you create components in React?
 
-**You create a component by writing a standard JavaScript function that returns JSX. In simple words: you build a custom HTML-like tag by defining a function that describes what the UI should look like.**
+**In simple words: you build a custom HTML-like tag by defining a function that describes what the UI should look like.**
 
 ---
 
@@ -66,7 +66,7 @@ Creating a Component is like **manufacturing a single custom car part**: once yo
 
 ## 📌 Q7: When should you use a Class Component over a Function Component?
 
-**The absolute answer natively today is: almost never, unless you are exclusively building a React Error Boundary. In simple words: Function Components are the future, and Classic Components are legacy history.**
+**In simple words: Function Components are the future, and Classic Components are legacy history.**
 
 ---
 
@@ -133,7 +133,7 @@ Choosing between them is like **choosing between a flip phone and a smartphone**
 
 ## 📌 Q8: What are Pure Components?
 
-**They are performance-optimized components that actively physically skip re-rendering if their input data (Props) hasn't mathematically changed. In simple words: they are a smart barricade preventing your computer's CPU from doing useless visual work.**
+**In simple words: they are a smart barricade preventing your computer's CPU from doing useless visual work.**
 
 ---
 
@@ -177,9 +177,9 @@ const HeavyDataRow = React.memo(function HeavyDataRow({ data }) {
 ## 🚀 Why It’s Popular in India (Your Context)
 - Because performance is fundamentally strictly mandatory:
   - Working for enterprise firms scaling natively to 1.4 Billion users optimally requires strictly eliminating purely wasteful lag.
-  - Native Node.js streaming purely sends heavy rapid data. Handling it visually safely natively purely inherently perfectly fluently fluently effectively smartly explicitly exactly efficiently successfully elegantly successfully brilliantly correctly efficiently flawlessly natively effortlessly flawlessly safely perfectly optimally requires `React.memo()`.
+  - Native Node.js streaming purely sends heavy rapid data. Handling it visually efficiently.inherently efficiently.effectively smartly explicitly exactly efficiently successfully elegantly efficiently.effortlessly efficiently.requires `React.memo()`.
 
 ---
 
 ## 🧩 Key Takeaway
-Pure Components are like **a bouncer at a nightclub**: if your ID (Props) hasn't structurally changed completely effectively fluently perfectly, he actively safely physically explicitly elegantly comfortably organically appropriately flawlessly optimally efficiently efficiently successfully efficiently blocks your completely wasteful native visually useless request smoothly effectively successfully natively correctly!
+Pure Components are like **a bouncer at a nightclub**: if your ID (Props) hasn't structurally changed completely effectively fluently perfectly, he actively safely physically explicitly elegantly comfortably efficiently.blocks your completely wasteful native visually useless request smoothly effectively efficiently.!
